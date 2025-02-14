@@ -11,5 +11,4 @@ public class Car extends Vehicle {
 		System.out.printf("Brand:%s\nModel:%s\nYear:%d\nFuel-Type:%s", brand, model, year, fuelType);
 	}
 
-
 }
