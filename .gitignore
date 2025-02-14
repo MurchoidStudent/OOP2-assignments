@@ -1,0 +1,92 @@
+# Java class files
+
+*.class
+
+
+
+# Package files
+
+*.jar
+
+*.war
+
+*.ear
+
+
+
+# Eclipse project files
+
+.project
+
+.classpath
+
+.settings/
+
+
+
+# Eclipse-specific files
+
+# This folder can contain build files and project-specific configurations
+
+bin/
+
+target/
+
+
+
+# IDE specific files
+
+*.sublime-workspace
+
+*.sublime-project
+
+*.iml
+
+
+
+# Local configuration files
+
+*.local
+
+*.log
+
+
+
+# Mac specific files
+
+.DS_Store
+
+
+
+# Windows specific files
+
+Thumbs.db
+
+ehthumbs.db
+
+
+
+# Temporary files
+
+*~ 
+
+# Backup files
+
+*.bak
+
+*.swp
+
+*.tmp
+
+
+
+# Maven specific files
+
+.mvn/
+
+pom.xml.tag
+
+pom.xml.next
+
+
+
